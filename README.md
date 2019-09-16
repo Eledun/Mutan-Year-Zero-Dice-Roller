@@ -7,4 +7,4 @@ From the initial dice pool yellow and black ones are saved and the rest of the d
 are re re-rolled, ones from the first roll are added to the newly obtained ones, and that is passed
 as damage (yellow dice) and equip damage (black dice) to the toon.
 The code is GNU of if you can make better just let me know,
-this is my first program ever so. there it is.
+this is my first program ever so there it is.
