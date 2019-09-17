@@ -8,7 +8,7 @@ myz = Figlet(font='graffiti')
 print(myz.renderText("MYZDice\nRoller"))
 
 print("*------------------------------------------------------*")
-print("|     MYZ Dice Roller by EledunGM beta  0.6 - 2019     |")
+print("|     MYZ Dice Roller by EledunGM final - 2019     |")
 print("|            Comments: ilgabo@gmail.com                |")
 print("|------------------------------------------------------|")
 print("|                    -INFO-                            |")
